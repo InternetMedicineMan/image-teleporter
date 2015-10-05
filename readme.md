@@ -1,10 +1,10 @@
 # Image Teleporter
-Contributors: bluemedicinelabs, dr_scythe, trishacupra 
+Contributors: bluemedicinelabs, internetmedicineman, dr_scythe, trishacupra 
 Donate link: http://www.BlueMedicineLabs.com/
 Tags: images, gallery, photobloggers, attachments, photo, links, external, photographers, Flickr, save, download
 Requires at least: 2.7
-Tested up to: 4.1.1
-Stable tag: 1.1.5
+Tested up to: 4.3.1
+Stable tag: 1.1.6
 
 This plugin turns images that are hosted elsewhere into images that are now in your Media Library, and the code on your page is automatically updated.
 
